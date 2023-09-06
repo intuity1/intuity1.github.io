@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cookies & Home Juice Subscription</title>
     <!-- Include Tailwind CSS CDN -->
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.15/dist/tailwind.min.css" rel="stylesheet">
+    <link href="https://docs.google.com/forms/d/e/1FAIpQLSdUEFJojg-k0Gx73a4xZtBqhWp9W2XxZPN6C9UV-YB4E4RRIg/viewform" rel="stylesheet">
     <!-- Add your custom CSS if necessary -->
 </head>
 <body class="bg-gray-100 font-sans">
@@ -29,7 +29,7 @@
     <div class="container mx-auto text-center">
         <h1 class="text-4xl font-bold text-green-800">Enjoy Fresh Packed Juices on Subscription</h1>
         <p class="mt-4 text-lg text-green-700">Delicious, healthy, and convenient juice delivered to your doorstep.</p>
-        <a href="#" class="mt-8 inline-block px-6 py-3 bg-green-500 text-white rounded-full hover:bg-green-600">Get Started</a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUEFJojg-k0Gx73a4xZtBqhWp9W2XxZPN6C9UV-YB4E4RRIg/viewform" class="mt-8 inline-block px-6 py-3 bg-green-500 text-white rounded-full hover:bg-green-600">Get Started</a>
     </div>
 </section>
 
@@ -63,7 +63,7 @@
     <div class="container mx-auto text-center">
         <h2 class="text-3xl font-bold">Subscribe Now and Stay Refreshed</h2>
         <p class="mt-4 text-lg">Choose a subscription plan that suits you and enjoy the goodness of fresh juice every day.</p>
-        <a href="#" class="mt-8 inline-block px-6 py-3 bg-white text-green-500 rounded-full hover:bg-white hover:text-green-500 border border-green-500">Subscribe</a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUEFJojg-k0Gx73a4xZtBqhWp9W2XxZPN6C9UV-YB4E4RRIg/viewform" class="mt-8 inline-block px-6 py-3 bg-white text-green-500 rounded-full hover:bg-white hover:text-green-500 border border-green-500">Subscribe</a>
     </div>
 </section>
 
