@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,10 +8,10 @@
     <link href="https://docs.google.com/forms/d/e/1FAIpQLSdUEFJojg-k0Gx73a4xZtBqhWp9W2XxZPN6C9UV-YB4E4RRIg/viewform" rel="stylesheet">
     <!-- Add your custom CSS if necessary -->
 </head>
-<body class="bg-gray-100 font-sans">
+<body class="bg-gray-100 font-sans" style="font-family: 'Montserrat', sans-serif;">
 
 <!-- Navigation Bar -->
-<nav class="bg-green-500 p-4">
+<nav class="bg-orange-500 p-4">
     <div class="container mx-auto">
         <div class="flex justify-between items-center">
             <div class="text-white text-2xl font-bold">Cookies & Home</div>
@@ -25,11 +26,11 @@
 </nav>
 
 <!-- Hero Section -->
-<section class="bg-green-200 py-20">
+<section class="bg-orange-200 py-20">
     <div class="container mx-auto text-center">
-        <h1 class="text-4xl font-bold text-green-800">Enjoy Fresh Packed Juices on Subscription</h1>
-        <p class="mt-4 text-lg text-green-700">Delicious, healthy, and convenient juice delivered to your doorstep.</p>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUEFJojg-k0Gx73a4xZtBqhWp9W2XxZPN6C9UV-YB4E4RRIg/viewform" class="mt-8 inline-block px-6 py-3 bg-green-500 text-white rounded-full hover:bg-green-600">Get Started</a>
+        <h1 class="text-4xl font-bold text-orange-800">Enjoy Fresh Packed Juices on Subscription</h1>
+        <p class="mt-4 text-lg text-orange-700">Delicious, healthy, and convenient juice delivered to your doorstep.</p>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUEFJojg-k0Gx73a4xZtBqhWp9W2XxZPN6C9UV-YB4E4RRIg/viewform" class="mt-8 inline-block px-6 py-3 bg-orange-500 text-white rounded-full hover:bg-orange-600">Get Started</a>
     </div>
 </section>
 
@@ -55,15 +56,14 @@
             </div>
         </div>
     </div>
-  
 </section>
 
 <!-- Subscription Section -->
-<section class="bg-green-500 py-16 text-white">
+<section class="bg-orange-500 py-16 text-white">
     <div class="container mx-auto text-center">
         <h2 class="text-3xl font-bold">Subscribe Now and Stay Refreshed</h2>
         <p class="mt-4 text-lg">Choose a subscription plan that suits you and enjoy the goodness of fresh juice every day.</p>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUEFJojg-k0Gx73a4xZtBqhWp9W2XxZPN6C9UV-YB4E4RRIg/viewform" class="mt-8 inline-block px-6 py-3 bg-white text-green-500 rounded-full hover:bg-white hover:text-green-500 border border-green-500">Subscribe</a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUEFJojg-k0Gx73a4xZtBqhWp9W2XxZPN6C9UV-YB4E4RRIg/viewform" class="mt-8 inline-block px-6 py-3 bg-white text-orange-500 rounded-full hover:bg-white hover:text-orange-500 border border-orange-500">Subscribe</a>
     </div>
 </section>
 
@@ -74,11 +74,5 @@
     </div>
 </footer>
 <!-- ... (previous sections) -->
-
-            
-</section>
-
-<!-- ... (remaining sections) -->
-
 </body>
 </html>
