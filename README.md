@@ -102,25 +102,7 @@
                     </div>
                 </div>
 
-                <!-- Name on Card -->
-                <div class="mb-4">
-                    <label for="cardName" class="block text-gray-700 font-medium">Name on Card</label>
-                    <input type="text" id="cardName" name="cardName" class="form-input">
-                </div>
-
-                <!-- Billing Address -->
-                <div class="mb-4">
-                    <label for="billingAddress" class="block text-gray-700 font-medium">Billing Address</label>
-                    <textarea id="billingAddress" name="billingAddress" class="form-textarea"></textarea>
-                </div>
-
-                <!-- Submit Button -->
-                <div class="mt-8">
-                    <button type="submit" class="bg-green-500 text-white py-2 px-4 rounded-full hover:bg-green-600">Submit Payment</button>
-                </div>
-            </form>
-        </div>
-    </div>
+            
 </section>
 
 <!-- ... (remaining sections) -->
