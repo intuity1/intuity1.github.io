@@ -75,32 +75,6 @@
 </footer>
 <!-- ... (previous sections) -->
 
-<!-- Payment Section -->
-<section class="bg-gray-100 py-16">
-    <div class="container mx-auto">
-        <div class="max-w-md mx-auto bg-white p-8 rounded-lg shadow-lg">
-            <h2 class="text-2xl font-semibold mb-6">Payment Information</h2>
-
-            <!-- Payment Form -->
-            <form>
-                <!-- Card Number -->
-                <div class="mb-4">
-                    <label for="cardNumber" class="block text-gray-700 font-medium">Card Number</label>
-                    <input type="text" id="cardNumber" name="cardNumber" class="form-input">
-                </div>
-
-                <!-- Expiry Date and CVV -->
-                <div class="grid grid-cols-2 gap-4">
-                    <div class="mb-4">
-                        <label for="expiryDate" class="block text-gray-700 font-medium">Expiry Date</label>
-                        <input type="text" id="expiryDate" name="expiryDate" class="form-input">
-                    </div>
-                    <div class="mb-4">
-                        <label for="cvv" class="block text-gray-700 font-medium">CVV</label>
-                        <input type="text" id="cvv" name="cvv" class="form-input">
-                    </div>
-                </div>
-
             
 </section>
 
